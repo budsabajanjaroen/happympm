@@ -25,12 +25,12 @@
 
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/HP/HP-ME-01.png" class="" alt="" style=" width: 250px; height: 250px;">
-                  <h3>ชื่อโปรโมชัน</h3>
-                  <h4>DD/MM/YYYY</h4>
+                  <img src="assets/img/unnamed (2).jpg" class="" alt="" style=" width: 250px; height: 250px;">
+                  <h3>Unforgettable Journey Through China’s Cultural Gem</h3>
+                  <h4>07/11/2024</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    รายละเอียดโปโมชัน
+                    Happy Health Happy Wealth "แค่รักษาสิทธิ์ ก็ยกขบวนโปรแลกซื้อสุดคุ้มมาให้แล้ว!
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                   <div style="text-align: right;">
@@ -44,12 +44,12 @@
               <div class="col-lg-4">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/HP/HP-ME-01.png" class="" alt="" style=" width: 250px; height: 250px;">
-                  <h3>ชื่อโปรโมชัน</h3>
-                  <h4>DD/MM/YYYY</h4>
+                  <img src="assets/img/unnamed (2).jpg" class="" alt="" style=" width: 250px; height: 250px;">
+                  <h3>Unforgettable Journey Through China’s Cultural Gem</h3>
+                  <h4>07/11/2024</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    รายละเอียดโปโมชัน
+                    Happy Health Happy Wealth "แค่รักษาสิทธิ์ ก็ยกขบวนโปรแลกซื้อสุดคุ้มมาให้แล้ว!
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                   <div style="text-align: right;">
@@ -63,12 +63,12 @@
               <div class="col-lg-4">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/HP/HP-ME-01.png" class="" alt="" style=" width: 250px; height: 250px;">
-                  <h3>ชื่อโปรโมชัน</h3>
-                  <h4>DD/MM/YYYY</h4>
+                  <img src="assets/img/unnamed (2).jpg" class="" alt="" style=" width: 250px; height: 250px;">
+                  <h3>Unforgettable Journey Through China’s Cultural Gem</h3>
+                  <h4>07/11/2024</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    รายละเอียดโปโมชัน
+                    Happy Health Happy Wealth "แค่รักษาสิทธิ์ ก็ยกขบวนโปรแลกซื้อสุดคุ้มมาให้แล้ว!
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                   <div style="text-align: right;">
@@ -82,12 +82,12 @@
               <div class="col-lg-4">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/HP/HP-ME-01.png" class="" alt="" style=" width: 250px; height: 250px;">
-                  <h3>ชื่อโปรโมชัน</h3>
-                  <h4>DD/MM/YYYY</h4>
+                  <img src="assets/img/unnamed (2).jpg" class="" alt="" style=" width: 250px; height: 250px;">
+                  <h3>Unforgettable Journey Through China’s Cultural Gem</h3>
+                  <h4>07/11/2024</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    รายละเอียดโปโมชัน
+                    Happy Health Happy Wealth "แค่รักษาสิทธิ์ ก็ยกขบวนโปรแลกซื้อสุดคุ้มมาให้แล้ว!
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                   <div style="text-align: right;">
@@ -101,12 +101,12 @@
               <div class="col-lg-4">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/HP/HP-ME-01.png" class="" alt="" style=" width: 250px; height: 250px;">
-                  <h3>ชื่อโปรโมชัน</h3>
-                  <h4>DD/MM/YYYY</h4>
+                  <img src="assets/img/unnamed (2).jpg" class="" alt="" style=" width: 250px; height: 250px;">
+                  <h3>Unforgettable Journey Through China’s Cultural Gem</h3>
+                  <h4>07/11/2024</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    รายละเอียดโปโมชัน
+                    Happy Health Happy Wealth "แค่รักษาสิทธิ์ ก็ยกขบวนโปรแลกซื้อสุดคุ้มมาให้แล้ว!
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                   <div style="text-align: right;">
@@ -120,12 +120,12 @@
               <div class="col-lg-4">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/HP/HP-ME-01.png" class="" alt="" style=" width: 250px; height: 250px;">
-                  <h3>ชื่อโปรโมชัน</h3>
-                  <h4>DD/MM/YYYY</h4>
+                  <img src="assets/img/unnamed (2).jpg" class="" alt="" style=" width: 250px; height: 250px;">
+                  <h3>Unforgettable Journey Through China’s Cultural Gem</h3>
+                  <h4>07/11/2024</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    รายละเอียดโปโมชัน
+                    Happy Health Happy Wealth "แค่รักษาสิทธิ์ ก็ยกขบวนโปรแลกซื้อสุดคุ้มมาให้แล้ว!
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                   <div style="text-align: right;">

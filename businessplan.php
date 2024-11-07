@@ -8,82 +8,72 @@
 
     <section id="businessplan" class="businessplan">
 
-        <div class="businessplan carousel">
-
-            <div class="slides-3 swiper">
+    <div class="businessplan carousel">
+            <div class="slides-4 swiper">
               <div class="swiper-wrapper">
 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-001.jpeg"  alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG001.jpeg"  alt="Image"/>
                 </div>
 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-002.jpeg" alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG002.jpeg" alt="Image"/>
                 </div>
 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-003.jpeg" alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG003.jpeg" alt="Image"/>
                 </div>
 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-004.jpeg" alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG004.jpeg" alt="Image"/>
                 </div>
 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-005.jpeg" alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG005.jpeg" alt="Image"/>
                 </div>
 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-006.jpeg" alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG006.jpeg" alt="Image"/>
                 </div>
 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-007.jpeg" alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG007.jpeg" alt="Image"/>
                 </div>
 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-008.jpeg" alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG008.jpeg" alt="Image"/>
                 </div>
                 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-009.jpeg" alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG008.jpeg" alt="Image"/>
                 </div>
 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-0010.jpeg" alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG0010.jpeg" alt="Image"/>
                 </div>
 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-0011.jpeg" alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG0011.jpeg" alt="Image"/>
                 </div>
 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-0012.jpeg" alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG0012.jpeg" alt="Image"/>
                 </div>
 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-0013.jpeg" alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG0013.jpeg" alt="Image"/>
                 </div>
 
                 <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-0014.jpeg" alt="Image"/>
+                  <img class="img-fluid" src="assets/img/rules/iloveimg-resized (2)/GGG0014.jpeg" alt="Image"/>
                 </div>
 
-                <div class="swiper-slide">
-                  <img class="img-fluid" src="assets/img/businessplan/iloveimg-resized (1)/HMPM-0015.jpeg" alt="Image"/>
-                </div>
-
-                <div class="swiper-slide">
-                <iframe width="800" height="600" src="https://www.youtube-nocookie.com/embed/WlxEOcgWFU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                </div>
-
-                <div class="swiper-slide">
-                <iframe width="800" height="600" src="https://www.youtube-nocookie.com/embed/aU8NsNQiUXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                </div>
             </div>
-    <!-- <div class="swiper-pagination"></div> -->
-  </div>
-
+                <div class="swiper-pagination"></div>
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+            </div>
+            
 
             </div>
   </section>

@@ -4,7 +4,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <p>รางวัลเกรียติยศที่ได้รับ</p>
+          <p>รางวัลเกียรติยศที่ได้รับ</p>
         </div>
 
         <div class="gallery-slider swiper">
@@ -41,7 +41,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <p>กจิกรรม เพื่อสังคม</p>
+          <p>กิจกรรม เพื่อสังคม</p>
         </div>
 
         <div class="gallery-slider swiper">
