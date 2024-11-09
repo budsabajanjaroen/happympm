@@ -13,25 +13,11 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
-  <link href="img/logo/logo3.png" rel="icon">
-  <title>RuangAdmin - Form Basics</title>
-  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-  <link href="css/ruang-admin.min.css" rel="stylesheet">
-  <link href="vendor/select2/dist/css/select2.min.css" rel="stylesheet" type="text/css">
-  <link href="vendor/bootstrap-datepicker/css/bootstrap-datepicker.min.css" rel="stylesheet">
-  <link href="vendor/bootstrap-touchspin/css/jquery.bootstrap-touchspin.css" rel="stylesheet">
-  <link href="vendor/clock-picker/clockpicker.css" rel="stylesheet">
-  <link href="css/ruang-admin.min.css" rel="stylesheet">
-</head>
 
-<body id="page-top">
-  <div id="wrapper">
+  <title>RuangAdmin - Form Basics</title>
+
+<style></style>
+<div id="wrapper">
     <!-- Sidebar -->
     <?php include "sidebar.php" ?>
     <!-- Sidebar -->
@@ -40,6 +26,8 @@
         <!-- TopBar -->
         <?php include "topbar.php" ?>
         <!-- Topbar -->
+<body id="page-top">
+
 
         <!-- Container Fluid-->
         <div class="container-fluid" id="container-wrapper">
@@ -201,16 +189,7 @@
   <a class="scroll-to-top rounded" href="#page-top">
     <i class="fas fa-angle-up"></i>
   </a>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/tinymce/7.4.1/tinymce.min.js" referrerpolicy="origin"></script>
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="js/ruang-admin.min.js"></script>
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-  <script src="vendor/select2/dist/js/select2.min.js"></script>
-  <script src="vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
-  <script src="vendor/bootstrap-touchspin/js/jquery.bootstrap-touchspin.js"></script>
-  <script src="vendor/clock-picker/clockpicker.js"></script>
+ 
   <script>
     tinymce.init({
       selector: 'textarea#detail',
