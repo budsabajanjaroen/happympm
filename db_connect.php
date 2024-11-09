@@ -16,9 +16,10 @@ try {
     
     // $results = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
-    
+    if ($pdo) {
+       // echo "Connected successfully"; // แสดงข้อความนี้ถ้าเชื่อมต่อสำเร็จ
+    }
 } catch(PDOException $e) {
-    echo "Connection failed: " . $e->getMessage();
+    echo "Connection failed: " . $e->getMessage(); // แสดงข้อความนี้ถ้าเชื่อมต่อล้มเหลว
 }
-
 ?>
