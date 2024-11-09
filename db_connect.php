@@ -22,4 +22,5 @@ try {
 } catch(PDOException $e) {
     echo "Connection failed: " . $e->getMessage(); // แสดงข้อความนี้ถ้าเชื่อมต่อล้มเหลว
 }
+//test
 ?>
