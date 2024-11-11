@@ -17,6 +17,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     if ($user && password_verify($password, $user['password'])) {
         $_SESSION['user_id'] = $user['id_admin'];
+        $_SESSION['loggedin'] = true;
         header("Location: index.html"); // เปลี่ยนไปหน้าแรกเมื่อเข้าสู่ระบบสำเร็จ
         exit();
     } else {
